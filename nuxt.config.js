@@ -82,7 +82,7 @@ module.exports = {
   router: {
     base: base
   },
-  generate: {
-    dir: 'green-dist'
-  },
+  // generate: {
+  //   dir: 'green-dist'
+  // },
 }
